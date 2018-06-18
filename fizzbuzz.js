@@ -7,7 +7,7 @@ for(var i = 1; i <= 100; i++){
   } else if(i % 3 === 0){
       console.log('Fizz'); 
   } else {
-    console.log(i)
+    console.log(i);
   }
 }  
   
@@ -24,5 +24,5 @@ while (i <= 30) {
   } else {
   console.log(i);
   }
-  i = i + 1
-  }
+  i = i + 1;
+}
